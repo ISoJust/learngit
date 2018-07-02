@@ -3,4 +3,4 @@ git is a good software.
 today i use a good software whose name is git.
 git has a mutable index called stage.
 i wrote a new message.
-create a new barnch is quick.
+create a new barnch is quick & simple.
